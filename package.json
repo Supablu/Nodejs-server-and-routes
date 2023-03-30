@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server-and-routes",
+  "version": "1.0.0",
+  "description": "Nodejs server and routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supablu/Nodejs-server-and-routes.git"
+  },
+  "author": "Luis del Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supablu/Nodejs-server-and-routes/issues"
+  },
+  "homepage": "https://github.com/Supablu/Nodejs-server-and-routes#readme"
+}
